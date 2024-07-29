@@ -1,0 +1,4 @@
+Click
+anthropic
+python-dotenv
+spacy

@@ -1,0 +1,3 @@
+[console_scripts]
+commandrex = commandrex.cli:cli
+commandrex-gui = commandrex:gui_main

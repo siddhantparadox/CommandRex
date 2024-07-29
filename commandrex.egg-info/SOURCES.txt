@@ -1,0 +1,16 @@
+README.md
+setup.py
+commandrex/__init__.py
+commandrex/cli.py
+commandrex/database.py
+commandrex/executor.py
+commandrex/gui.py
+commandrex/nlp.py
+commandrex/nlp_advanced.py
+commandrex.egg-info/PKG-INFO
+commandrex.egg-info/SOURCES.txt
+commandrex.egg-info/dependency_links.txt
+commandrex.egg-info/entry_points.txt
+commandrex.egg-info/requires.txt
+commandrex.egg-info/top_level.txt
+tests/test_cli.py
